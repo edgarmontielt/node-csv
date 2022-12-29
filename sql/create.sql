@@ -1,4 +1,4 @@
-SELECT * FROM `users-db`.users;CREATE TABLE `users` (
+CREATE TABLE `users` (
   `id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(45) NOT NULL,
   `lastName` varchar(45) NOT NULL,
