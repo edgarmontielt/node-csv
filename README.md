@@ -21,7 +21,7 @@ password = password of database
 Third, in the database management system, run the script located in /sql
 
 ```bash
-SELECT * FROM `users-db`.users;CREATE TABLE `users` (
+CREATE TABLE `users` (
   `id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(45) NOT NULL,
   `lastName` varchar(45) NOT NULL,
