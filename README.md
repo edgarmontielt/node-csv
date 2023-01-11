@@ -36,5 +36,5 @@ CREATE TABLE `users` (
 Fourth, run the script js
 
 ```bash
-npm run dev
+npm start
 ```
